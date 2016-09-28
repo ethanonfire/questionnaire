@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">questionnaire</string>
+
+
+
+    <string name = "true_button">True</string>string>
+    <string name = "false_button">False</string>string>
+    <string name = "next_button">Next</string>string>
+
+    <string name = "question_1"> A? </string>string>
+    <string name = "question_2"> B? </string>string>
+    <string name = "question_3"> C? </string>string>
+    <string name = "question_4"> D? </string>string>
+    <string name = "question_5"> E? </string>string>
+
+
+
+
+
+
+</resources>
